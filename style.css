@@ -1,0 +1,20 @@
+body{
+    color: black;
+    background :rgb(113, 203, 255) ;
+    
+    }
+    
+    .heading{
+    
+        font-size: 22px;
+        width: 80%;
+    
+    }
+    
+    #camera{
+    
+    width:300px;
+    height: 280px;
+    
+    }
+    
